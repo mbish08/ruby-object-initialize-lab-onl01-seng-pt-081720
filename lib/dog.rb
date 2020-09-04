@@ -3,6 +3,4 @@ class Dog
     @breed = breed
   end 
   
-  attr_accessor(breed)
-  
 end 
